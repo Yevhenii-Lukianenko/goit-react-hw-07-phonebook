@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.770eef35.css","mappings":"AAEA,KACE,gBACF,CAEA,oBAOE,QACF","sources":["index.css"],"sourcesContent":["/* @import '../node_modules/modern-normalize/modern-normalize.css'; */\n\nbody {\n  margin: 60px 30px;\n}\n\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\np {\n  margin: 0;\n}\n"],"names":[],"sourceRoot":""}
